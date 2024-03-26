@@ -15,17 +15,18 @@ Estou sempre em busca de desafios estimulantes para aplicar minhas habilidades e
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💻 Tech Stack:
+# 💻 Habilidades Técnicas:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- # 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
@@ -36,7 +37,7 @@ Estou sempre em busca de desafios estimulantes para aplicar minhas habilidades e
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
 
-### ✍️ Random Dev Quote
+### ✍️ Frases Aleatórias
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
