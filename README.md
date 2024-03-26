@@ -38,7 +38,7 @@ Estou sempre em busca de desafios estimulantes para aplicar minhas habilidades e
 
 
 ### ✍️ Frases Aleatórias:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&lang=pt-br)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
