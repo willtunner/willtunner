@@ -43,5 +43,3 @@ Estou sempre em busca de desafios estimulantes para aplicar minhas habilidades e
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willtunner&show_icons=true&theme=dracula&locale=pt-br)
-
