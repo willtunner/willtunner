@@ -40,7 +40,7 @@ Estou sempre em busca de desafios estimulantes para aplicar minhas habilidades e
 ### ✍️ Frases Aleatórias:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true)
 
-## 📫 Connect with me:
+## 📫 Contato:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/william-pereira-8a256321/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
