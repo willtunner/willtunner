@@ -28,10 +28,11 @@ Estou sempre em busca de desafios estimulantes para aplicar minhas habilidades e
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willtunner&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-## 🏆 GitHub Troféus:
-![](https://github-profile-trophy.vercel.app/?username=willtunner&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
+<!-- ## 🏆 GitHub Troféus: -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=willtunner&theme=algolia&no-frame=true&no-bg=true&margin-w=5) -->
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
