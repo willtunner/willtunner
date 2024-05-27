@@ -2,6 +2,12 @@
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
+<div align="center">
+  <a href="https://phanatagama.vercel.app/">
+    <img src="https://raw.githubusercontent.com/phanatagama/phanatagama/master/profile-3d-contrib/profile-night-rainbow.svg"/>
+  </a>
+</div>
+
 # 💫 Sobre mim:
 Com experiência abrangente em diversas linguagens e tecnologias, especializado em Java, JavaScript e TypeScript, com profundo conhecimento em frameworks como Spring Boot, NestJS e Angular, além de experiência em React, React Native e Ionic para desenvolvimento web e mobile.
 
